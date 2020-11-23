@@ -1,7 +1,4 @@
-# This is my theory
-## Which is mine
-### and what it is too
+## Daily recording of my theories
+### which are mine, are mine.
 
-A **brontosaurus** is thin at one end, much much thicker in the middle, and thin again at the far end. 
 
-## Anne Elk
