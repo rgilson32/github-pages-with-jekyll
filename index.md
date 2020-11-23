@@ -1,3 +1,7 @@
-# Welcome to my blog
+# This is my theory
+## Which is mine
+### and what it is too
 
-I'm glad you are here. I plan to talk about ...
+A **brontosaurus** is thin at one end, much much thicker in the middle, and thin again at the far end. 
+
+## Anne Elk
